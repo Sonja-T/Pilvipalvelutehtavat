@@ -3,5 +3,4 @@ description: Tervetuloa sivustolle!
 theme: jekyll-theme-time-machine
 
 header_pages:
-- index.md
 - vko2.md
