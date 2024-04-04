@@ -3,6 +3,5 @@
 <body>
     <h1>Tervetuloa GitHub Pages-sivustolleni!</h1>
     <p class="container">Täältä löytyvät tehtäväpalautukset:</p>
-    <p><a href="https://github.com/Sonja-T/Pilvipalvelutehtavat/vko2.html"> Viikko 2</a> </p>
 </body>
 </html>
