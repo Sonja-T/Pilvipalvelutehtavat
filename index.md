@@ -1,6 +1,6 @@
 
 <body>
-    <h1>Pilvipalvelut web-kehityksessä | Sonja T</h1>
+    <h1>Pilvipalvelut web-kehityksessä | Sonja-T</h1>
     <p class="container">Täältä löytyvät tehtäväpalautukset:</p>
     <ul>
         <li><a href="https://sonja-t.github.io/Pilvipalvelutehtavat/vko1.html">Viikko 1</a></li>
