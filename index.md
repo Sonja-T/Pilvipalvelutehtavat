@@ -2,14 +2,14 @@
 <body>
     <h1>Tervetuloa GitHub Pages -sivustolleni!</h1>
     <p class="container">Täältä löytyvät tehtäväpalautukset:</p>
-    <li>
-        <ul>Viikko 1</ul>
-        <ul>Viikko 2</ul>
-        <ul>Viikko 3</ul>
-        <ul>Viikko 4</ul>
-        <ul>Viikko 5</ul>
-        <ul>Viikko 6</ul>
-        <ul>Harjoitustyö</ul>
-    </li>
+    <ul>
+        <li><a href="url">Viikko 1</a></li>
+        <li><a href="url">Viikko 2</li>
+        <li>Viikko 3</li>
+        <li>Viikko 4</li>
+        <li>Viikko 5</li>
+        <li>Viikko 6</li>
+        <li>Harjoitustyö</li>
+    </ul>
 
 </body>
